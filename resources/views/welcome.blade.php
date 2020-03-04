@@ -86,9 +86,10 @@
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Past Papers</a>
-                    <a href="https://laracasts.com">Demo</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://blog.laravel.com">Guest exam</a>
+                    <a href="https://laracasts.com">Exams</a>
+                    <a href="https://laravel-news.com">Subjects</a>
+                    <a href="https://blog.laravel.com">Results</a>
+                    <a href="https://forge.laravel.com">Reports</a>
                     <a href="https://forge.laravel.com">Registration</a>
                     <a href="https://github.com/laravel/laravel">About us</a>
                 </div>
